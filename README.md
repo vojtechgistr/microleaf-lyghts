@@ -14,4 +14,33 @@ Modular lights that are controlled with a single mobile app, inspired by modern 
 ## Hardware showcase
 ![3DPrintedLights](https://github.com/vojtechgistr/microleaf-lyghts/assets/56306485/cad44f8c-e61a-4710-9a9b-43de165ae20b)
 
-Used leds are **addresable**, **microcontroller:** ESP8266.
+Used leds are **addressable**, **microcontroller:** ESP8266.
+
+## Dependencies Libraries and Products
+#### [platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide)
+> **License:** Apache License 2.0
+>
+> **Author:** platformio
+>
+> **Principal Use:** ESP8266 microcontroller development
+
+#### [FastLED](https://github.com/FastLED/FastLED)
+> **License:** MIT License
+>
+> **Author:** FastLED
+>
+> **Principal Use:** Communication with addressable LEDs
+
+#### [react-native](https://github.com/facebook/react-native)
+> **License:** MIT License
+>
+> **Author:** facebook
+>
+> **Principal Use:** Mobile app development
+
+#### [expo](https://github.com/expo/expo)
+> **License:** MIT License
+>
+> **Author:** expo
+>
+> **Principal Use:** Realtime debug mobile app development
